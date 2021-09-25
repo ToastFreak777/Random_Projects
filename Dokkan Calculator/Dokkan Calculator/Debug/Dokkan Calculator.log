@@ -1,0 +1,11 @@
+﻿  Dokkan Calculator.cpp
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(35,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(36,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(62,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(63,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(6,36): warning C4101: 'FLatk': unreferenced local variable
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(6,24): warning C4101: 'Ldef': unreferenced local variable
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(6,18): warning C4101: 'Latk': unreferenced local variable
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(6,43): warning C4101: 'FLdef': unreferenced local variable
+C:\Software Engineer\C++\Programs\Dokkan Calculator\Dokkan Calculator\Dokkan Calculator.cpp(7,99): warning C4101: 'Link': unreferenced local variable
+  Dokkan Calculator.vcxproj -> C:\Software Engineer\C++\Programs\Dokkan Calculator\Debug\Dokkan Calculator.exe
